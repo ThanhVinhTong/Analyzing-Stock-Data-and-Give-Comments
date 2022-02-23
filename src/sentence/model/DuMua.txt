@@ -1,0 +1,2 @@
+Tại HSX, cổ phiếu <stockCode> cũng thuộc hàng dư mua lớn trên sàn, mặc dù đã khớp trên <stockVolume> cổ phiếu khi giao dịch đợt 2 chưa kết thúc. 
+Với khối lượng dư mua không nhiều (<stockVolume> cổ phiếu), <stockCode> đang là cổ phiếu có tính thanh khoản tốt nhất hiện nay. 

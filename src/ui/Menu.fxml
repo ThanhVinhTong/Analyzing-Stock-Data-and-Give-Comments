@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.effect.Reflection?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseEntered="#printTag" prefHeight="720.0" prefWidth="1280.0" styleClass="bodybg" stylesheets="@menuBackground.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ui.MenuController">
+   <children>
+      <Label layoutX="474.0" layoutY="153.0" onMouseClicked="#chooseTag" prefHeight="30.0" prefWidth="192.0" styleClass="bodybg" stylesheets="@tagButtonBackground.css" text="         Chọn Tag">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+         <effect>
+            <Reflection />
+         </effect>
+      </Label>
+      <Label layoutX="727.0" layoutY="153.0" onMouseClicked="#removeAllTag" prefHeight="30.0" prefWidth="192.0" styleClass="bodybg" stylesheets="@removeTagBackground.css" text="     Xóa Hết Tag">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+         <effect>
+            <Reflection />
+         </effect>
+      </Label>
+      <Label layoutX="965.0" layoutY="153.0" onMouseClicked="#spawnSentence" prefHeight="30.0" prefWidth="192.0" styleClass="bodybg" stylesheets="@spawnSentenceBackground.css" text="    Sinh Đoạn Văn">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+         <effect>
+            <Reflection />
+         </effect>
+      </Label>
+      <TextArea fx:id="SentencesRepresent" editable="false" layoutX="306.0" layoutY="231.0" prefHeight="434.0" prefWidth="882.0" />
+      <TextArea fx:id="tagRepresent" editable="false" layoutX="306.0" layoutY="68.0" prefHeight="54.0" prefWidth="882.0" />
+   </children>
+</AnchorPane>

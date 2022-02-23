@@ -1,0 +1,3 @@
+<stockCode>, <stockCode>, <stockCode> đều tăng trần trong khi <stockCode> nhanh chóng trở thành mã có thanh khoản tốt nhất trên sàn với <stockVolume> cổ phiếu được chuyển nhượng. 
+<stockCode>, <stockCode>, <stockCode> là những mã hiếm hoi thuộc nhóm VN30 tăng trần trong phiên sáng nay với lượng giao dịch trên <stockVolume> đơn vị. 
+Trên sàn Hà Nội, <stockCode> tăng trần với <stockVolume> triệu cổ phiếu được giao dịch, cùng với <stockCode> là một trong những mã giao dịch lớn nhất sàn.

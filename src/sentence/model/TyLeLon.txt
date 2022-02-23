@@ -1,0 +1,3 @@
+Cổ phiếu <stockCode> lại quay về thế chủ đạo trên thị trường, chiếm <percentage> giá trị giao dịch. 
+<stockCode> là các cổ phiếu được giao dịch chủ yếu trong phiên - riêng loại này chiếm tới <percentage> giá trị giao dịch toàn thị trường. 
+Xét về giá trị giao dịch, <stockCode> vẫn dẫn đầu thị trường với giá trị hơn <stockPrice> triệu đồng.  

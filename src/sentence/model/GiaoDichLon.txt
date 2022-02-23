@@ -1,0 +1,1 @@
+Trong phiên hôm qua, <stockCode> gây đột biến với giao dịch thỏa thuận <stockValue> cổ phiếu, trị giá hơn <stockPrice> đồng, cổ phiếu được giao dịch nhiều thứ hai là <stockCode> với <stockVolume> đơn vị.

@@ -1,0 +1,3 @@
+Đứng đầu về khối lượng giao dịch tháng qua là <stockCode>, với <stockVolume> cổ phiếu (chiếm <percentage>% tổng mức giao dịch toàn thị trường), kế đến là <stockCode>.
+Trên sàn chứng khoán, <stockCode> cũng được xem là một trong những mã đắt hàng nhất năm 2021 với khối lượng giao dịch trên <stockVolume> cổ phiếu.
+Năm qua, cổ phiếu <stockCode> cũng là mã có thanh khoản cao nhất sàn với hơn <stockVolume> chứng khoán được chuyển nhượng thành công.

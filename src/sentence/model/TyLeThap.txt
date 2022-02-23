@@ -1,0 +1,2 @@
+Trong khi đó, <stockCode> chiếm số lượng ít ỏi - tổng cộng chỉ có <stockVolume> cổ phiếu được chuyển nhượng, chiếm chưa tới <percentage> giá trị toàn thị trường. 
+Dù vậy, <stockCode> vẫn được xem là mã có thanh khoản thấp nhất do lượng giao dịch chỉ chiếm <percentage> trên tổng khối lượng chung toàn ngành. 

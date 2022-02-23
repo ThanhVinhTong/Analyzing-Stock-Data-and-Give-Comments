@@ -1,0 +1,4 @@
+Toàn thị trường hiện đang có 162 mã tăng giá, 214 mã giảm giá và 64 mã đứng giá.
+Hiện tại, có 162 mã tăng và 214 mã giảm, còn lại hầu hết các mã đều đứng giá.
+Tháng 4 năm 2021, trong hơn 440 mã cổ phiếu chỉ có 214 mã cổ phiếu giảm.
+Toàn thị trường có tới 214 mã giảm giá trong khi chỉ có 162 mã tăng và 64 mã đứng giá.

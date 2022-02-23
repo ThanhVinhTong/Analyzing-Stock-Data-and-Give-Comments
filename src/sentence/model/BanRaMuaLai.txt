@@ -1,0 +1,2 @@
+<stockVolume> cổ phiếu <stockCode> đã được mua lại. 
+Cổ phiếu công ty đang giao dịch tại sàn HSX với mã <stockCode>, thị giá quanh <stockPrice> đồng. 

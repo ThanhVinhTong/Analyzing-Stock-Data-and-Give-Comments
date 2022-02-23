@@ -1,0 +1,1 @@
+Tổng khối lượng giao dịch của <stockCode> trong buổi sáng đạt gần <stockVolume> cổ phiếu và là một trong những mã giao dịch sôi động nhất sàn.

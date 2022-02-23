@@ -1,0 +1,3 @@
+Một số mã địa ốc khác trên sàn HSX đứng hoặc giảm giá như <stockCode>, <stockCode> với khối lượng giao dịch chỉ dao động từ <stockVolume> đến hơn <stockVolume> cổ phiếu. 
+Đáng chú ý có tới 11 cổ phiếu đứng giá trong đó có <stockCode>, <stockCode>, <stockCode> và <stockCode> những cổ phiếu có tính thanh khoản cao. 
+Hai cổ phiếu có vốn hóa lớn nhất thị trường là <stockCode> và <stockCode> đều đứng giá giao dịch lần lượt từ <stockVolume> đến <stockVolume> đơn vị. 

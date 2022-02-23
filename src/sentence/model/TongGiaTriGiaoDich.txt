@@ -1,0 +1,1 @@
+<stockCode> là cổ phiếu có khối lượng giao dịch lớn nhất (<stockVolume>), nhưng giá trị giao dịch lớn nhất lại thuộc về cổ phiếu <stockCode> (trên <stockCost> đồng). 

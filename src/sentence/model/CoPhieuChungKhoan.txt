@@ -1,0 +1,2 @@
+﻿Trên HSX, nhóm cổ phiếu chứng khoán như <stockCode> điều chỉnh; <stockCode> cũng bị bán ra mạnh, khối lượng tăng vọt lên hơn <stockVolume> đơn vị. 
+Cổ phiếu chứng khoán vẫn là tâm điểm của HSX, trong đó, <stockCode> có khối lượng chuyển nhượng dẫn đầu, với gần <stockVolume> cổ phiếu. 

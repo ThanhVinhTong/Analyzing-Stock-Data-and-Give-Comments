@@ -1,0 +1,2 @@
+﻿Các mã có ảnh hưởng nhiều đến Vn-Index như <stockCode> tăng kịch trần lên <close> đồng, khối lượng khớp lệnh vỏn vẹn <stockVolume> cổ phiếu do bên bán đặt lệnh rất ít. 
+Từ khi vào rổ VN30 hôm 27/1, phiên giao dịch nào ITA cũng đều khớp lệnh trên 5 triệu cổ phiếu và là mã thanh khoản cao nhất nhóm. 

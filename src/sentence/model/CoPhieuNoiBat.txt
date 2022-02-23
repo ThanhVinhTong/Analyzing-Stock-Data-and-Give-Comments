@@ -1,0 +1,3 @@
+﻿Toàn sàn TP HCM có <stockCode> dẫn đầu với <stockVolume> chứng khoán được sang tay. 
+Tâm điểm thị trường vẫn hướng vào <stockCode> với lượng cổ phiếu chuyển nhượng cao chưa từng có, <stockVolume> cổ phiếu.  
+Riêng <stockCode> tăng nhẹ <Open> đồng đến <Close> đồng và nằm trong nhóm những chứng khoán có lượng giao dịch cao trong ngày (trên 5 triệu cổ phiếu). 

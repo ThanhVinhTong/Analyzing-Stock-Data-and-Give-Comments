@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Reflection?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" 
+	prefHeight="720.0" prefWidth="1280.0" styleClass="bodybg" stylesheets="@background.css" 
+	xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="ui.GetStartedController">
+   <children>
+      <Label layoutX="121.0" layoutY="462.0" onMouseClicked="#startMenu" prefHeight="120.0" prefWidth="360.0" styleClass="bodybg" stylesheets="@buttonBackground.css" AnchorPane.bottomAnchor="138.0" AnchorPane.leftAnchor="125.0">
+         <effect>
+            <Reflection />
+         </effect>
+      </Label>
+   </children>
+</AnchorPane>

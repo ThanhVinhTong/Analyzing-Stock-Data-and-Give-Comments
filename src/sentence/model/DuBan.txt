@@ -1,0 +1,1 @@
+Sàn HSX chứng kiến việc bán sàn mạnh các cổ phiếu lớn như <stockCode>, <stockCode> với dư bán có lúc lên tới hơn <stockVolume> cổ phiếu. 

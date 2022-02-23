@@ -1,0 +1,3 @@
+Trong số 5 cổ phiếu giao dịch lớn nhất sàn HSX, dẫn đầu là mã chứng khoán  <stockCode> (<stockVolume>), <stockCode>  ghi nhận trên <stockVolume>, <stockCode>, <stockCode>  và <stockCode> đạt mức thanh khoản <stockVolume> triệu. 
+Dòng tiền tập trung nhiều vào <stockCode> và <stockCode>, hai mã này dẫn đầu thanh khoản sàn HSX với hơn <stockVolume> cổ phiếu đổi chủ. 
+Những mã thuộc lĩnh vực bất động sản và có tính đầu cơ như <stockCode>, <stockCode> mới duy trì thanh khoản cao với khối lượng ít nhất <stockVolume> cổ phiếu mỗi loại. 
